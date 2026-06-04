@@ -2,7 +2,7 @@
 
 # ============================================================
 # Script VPS Manager - yourvpsmaster
-# El mejor script, súper ligero y funcional
+# Basado en el diseño exacto de las capturas
 # Para Ubuntu 22.04 x86_64
 # ============================================================
 
