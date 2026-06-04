@@ -537,4 +537,3 @@ menu_usuarios() {
             4) listar_usuarios ;;
             5) usuarios_conectados ;;
             6) cambiar_banner_ssh ;;
-  
